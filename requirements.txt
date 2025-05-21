@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+torch
+torchaudio
+transformers
+openai-whisper
+pyannote.audio
+pydub
+noisereduce>=2.0.0
+soundfile
+tqdm
+python-dotenv
+deepl
+accelerate
+bitsandbytes
+einops
+sentencepiece
